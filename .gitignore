@@ -1,12 +1,11 @@
 *.class
 
 # Mobile Tools for Java (J2ME)
-.mtj.tmp/
 
 # Package Files #
 *.jar
 *.war
 *.ear
 
-# virtual machine crash logs EAT YOUR BUTT
+# virtual machine crash logs if so happens EAT YOUR BUTT
 hs_err_pid*
